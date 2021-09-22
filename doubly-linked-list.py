@@ -4,9 +4,8 @@
 	But You can ask me if you are beginner like I am and will help you if i know the answer.
 	I made this code with a lot of comments to simplify it for me and for you. 
 	You Can Contact Me On  : 
-			Facebook : 
-			GitHub : 
-			Linkeldin :  
+			Facebook : https://www.facebook.com/ayoub.buoya.3762/
+			GitHub : https://github.com/ayoubbuoya
 '''
 
 
